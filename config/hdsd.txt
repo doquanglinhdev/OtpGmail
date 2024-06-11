@@ -1,0 +1,2 @@
+mã nguồn chạy trên phiên bản PHP 7.2 (ea-php72)
+config tại config/config.php
